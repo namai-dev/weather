@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.slick-list {
+  margin: 0 -5px;
+}
+.slick-slide > div {
+  padding: 0 5px;
+}
